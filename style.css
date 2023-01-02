@@ -26,6 +26,9 @@ body{
 .img-container > img{
     height: 100%;
 }
+.img-container{
+    max-width: 45%;
+}
 .text-container{
     display: flex;
     flex-direction: column;
